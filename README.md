@@ -17,6 +17,14 @@
 - 🗄️ SQL
 - 💻 General IT knowledge: systems and networks
 
+<b>What am I going to learn in the future:question:</b>
+- ☁️ Cloud Computing
+
+<b>What do I do in my free time:question:</b>
+- 🐎 Horseriding
+- ㊙️ Cryptography
+- 🏔️ Trekking and rock climbing
+
 You can find more about me down here:
 
 <div id="badges" align="left">
