@@ -9,6 +9,7 @@
 
 <b>What do I know:question:</b>
 - 🇬🇧 English
+- <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logoaplus.svg?sfvrsn=c1041be7_2" width="18" height="18" alt="CompTIA A+ icon"/> CompTIA A+
 - 💹 Microsoft Excel
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="18" height="18" alt="Git icon"/> Git
 
