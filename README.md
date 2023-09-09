@@ -10,7 +10,7 @@
 <b>What do I know:question:</b>
 - 🇬🇧 English
 - 💹 Microsoft Excel
-- <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-2.png" width="18" height="18" alt="GitHub icon"/> GitHub
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="18" height="18" alt="Git icon"/> Git
 
 <b>What I am learing right now:question:</b>
 - <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="18" height="18" alt="Python icon"/> Python and automatization
