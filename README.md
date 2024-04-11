@@ -1,30 +1,25 @@
-<div id="header" align="center">
-  <h1>Hi! I'm Jacob.</h1>
-</div>
+<h1>Hey there! I'm Jakub, a curious analyst with a passion for seeking answers through data.</h1>
 
-<b>Who am I:question:</b>
-- 🔍 answer-seeker
-- 📈 analyst
-- 📚 scholar
+🛠️ Skills:
 
-<b>What do I know:question:</b>
-- 🇬🇧 English
-- <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logoaplus.svg?sfvrsn=c1041be7_2" width="18" height="18" alt="CompTIA A+ icon"/> CompTIA A+
-- 💹 Microsoft Excel
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="18" height="18" alt="Git icon"/> Git
+- Excel: Manipulating data with finesse.
+- Python: Crafting powerful algorithms.
+- AI: Creating prompts and leveraging my skills.
+- Git: Managing code with precision.
+- Math: Embracing numbers as my allies.
+- SQL: Mastering the language of databases.
+- PowerBI: Creating visual narratives from data.
+  
+💡 I strive to be adept with numbers, a seeker of logic, and continually expanding my well of knowledge.
 
-<b>What I am learing right now:question:</b>
-- <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="18" height="18" alt="Python icon"/> Python and automatization
-- 🗄️ SQL
-- 💻 General IT knowledge: systems and networks
+📊 Learning: Currently immersing myself in the realms of linear algebra, graph theory, calculus, and statistics. Preparing to dive into world of Machine Learning.
 
-<b>What am I going to learn in the future:question:</b>
-- ☁️ Cloud Computing
+🕵️‍♂️ Interests:
 
-<b>What do I do in my free time:question:</b>
-- 🐎 Horseriding
-- ㊙️ Cryptography
-- 🏔️ Trekking and rock climbing
+- Horse riding: Finding freedom in the saddle. 🐎
+- Cryptography: Unraveling secrets with power of math. 🔐
+- Trekking: Exploring nature's wonders. Alone or with my dogs. 🌲
+- Rock climbing: Conquering challenges, one ascent at a time. 🧗‍♂️
 
 You can find more about me down here:
 
